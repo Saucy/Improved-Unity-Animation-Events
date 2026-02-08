@@ -1,0 +1,18 @@
+{
+    "name": "ImprovedUnityAnimationEvents.Editor",
+    "rootNamespace": "ImprovedUnityAnimationEvents",
+    "references": [
+        "GUID:919e0586bef85cc4e95c0f6c823c98d4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

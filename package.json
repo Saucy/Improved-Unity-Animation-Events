@@ -1,0 +1,11 @@
+{
+  "name": "com.gitamend.improved-unity-animation-events",
+  "version": "1.0.0",
+  "displayName": "Improved Unity Animation Events",
+  "description": "This system offers enhanced flexibility and control over Unity\u2019s Animation Event system, particularly valuable for managing complex animation events in both runtime and editor-time workflows.",
+  "unity": "2022.1",
+  "author": {
+    "name": "Git Amend",
+    "url": "https://www.youtube.com/@git-amend"
+  }
+}
